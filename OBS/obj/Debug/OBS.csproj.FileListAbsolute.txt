@@ -1,0 +1,13 @@
+C:\Users\Esad\source\repos\OBS\OBS\bin\Debug\OBS.exe.config
+C:\Users\Esad\source\repos\OBS\OBS\bin\Debug\OBS.exe
+C:\Users\Esad\source\repos\OBS\OBS\bin\Debug\OBS.pdb
+C:\Users\Esad\source\repos\OBS\OBS\obj\Debug\OBS.csproj.AssemblyReference.cache
+C:\Users\Esad\source\repos\OBS\OBS\obj\Debug\OBS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esad\source\repos\OBS\OBS\obj\Debug\OBS.Student_Entry.resources
+C:\Users\Esad\source\repos\OBS\OBS\obj\Debug\OBS.FrmStudentDetail.resources
+C:\Users\Esad\source\repos\OBS\OBS\obj\Debug\OBS.FrmTeacherDetail.resources
+C:\Users\Esad\source\repos\OBS\OBS\obj\Debug\OBS.Properties.Resources.resources
+C:\Users\Esad\source\repos\OBS\OBS\obj\Debug\OBS.csproj.GenerateResource.cache
+C:\Users\Esad\source\repos\OBS\OBS\obj\Debug\OBS.csproj.CoreCompileInputs.cache
+C:\Users\Esad\source\repos\OBS\OBS\obj\Debug\OBS.exe
+C:\Users\Esad\source\repos\OBS\OBS\obj\Debug\OBS.pdb
